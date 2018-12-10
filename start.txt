@@ -1,14 +1,13 @@
 bismmillah latihan
 
-<<<<<<< HEAD
+
 afour kampret
 nsnas
  
-=======
 kompas
 
 
 versi 1
 
 afour kampret 
->>>>>>> versi1
+versi1
