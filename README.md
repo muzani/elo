@@ -1,2 +1,2 @@
 # elo
-elo aja --> buat training
+bismillah elo aja --> buat training
